@@ -1,0 +1,150 @@
+body {
+  font-family: serif;
+}
+
+nav {
+  width: 900px;
+  margin: 0 auto;
+  content-align: left;
+  position: relative;
+  
+}
+
+footer {
+  margin: 30px auto;
+  width: 900px;
+  font-size: x-small;
+  text-align: center;
+}
+
+.share {
+  overflow: auto;
+  height: 300px auto;
+  width: 900px;
+  margin: auto;
+  margin-top: 30px;
+  border-top: 5px solid #eee;
+  padding-top: 10px;
+}
+
+.heading {
+  text-align: left;
+  width: 900px;
+  margin: 25px auto;
+  border-top: 5px solid #eee;
+  padding-top: 5px;
+}
+
+h1 {
+  font-family: cursive;
+  font-weight: bold;
+  margin: 0;
+  font-size: large;
+}
+
+.headshot {
+  float: left;
+  display: inline-block;
+  margin: 5px;
+}
+
+.vanessa {
+  float: left;
+  display: inline-block;
+  text-align: left;
+}
+
+h3 {
+  margin: 5px 0 0 0;
+}
+.share p {
+  float: left;
+  display: inline-block;
+  margin: 5px;
+}
+
+article {
+  width: 900px;
+  text-align: left;
+  margin: 0 auto;
+}
+
+button:hover {
+  color: lightpink;
+}
+button {
+  background-color: red;
+  color: white;
+  padding: 10px 25px;
+  border-radius: 3px;
+  outline: none;
+  transition: 300ms;
+  border: none;
+  float: right;
+  margin: 20px 30px;
+
+}
+
+section ul {
+  display: inline-block;
+}
+
+.list {
+  width: 900px;
+  margin: 10px auto;
+  background-image: url('images/list-bg.png');
+}
+
+.copyright {
+  margin-bottom: -10px;
+}
+
+h2 {
+  font-family: impact, sans-serif;
+}
+
+nav ul li {
+  display: inline-block;
+  float: right;
+  margin-top: 0;
+}
+
+.logo {
+  display: inline-block;
+  float: left;
+  margin: 5px;
+}
+
+.delicious {
+  display: inline-block;
+  text-align: left;
+}
+
+nav p {
+  margin: 0;
+  font-size: small;
+}
+
+.image {
+  margin: 0 auto;
+  width: 900px;
+}
+
+.icons {
+  margin: 0 auto;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.recipe {
+  display: block;
+}
+
+form {
+  display: inline-block;
+}
+
+.left {
+  margin: 10px 275px 20px 50px;
+}
